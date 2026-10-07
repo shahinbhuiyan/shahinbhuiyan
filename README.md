@@ -1,58 +1,168 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" font-family="Segoe UI, Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4NWY5MTE1Ny1kZDI2LTQ4ZjctYTljMy1lYTk3ZjFiM2Y2MDUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKRpA4R+frzQJMVF0lHwxQIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5YjM3MDFmNi1kZDAxLTQ0NDktODM0OS05NTliM2MwZjM4ZWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoPB2ezVoGEeHlCru1y0bNwgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggvObrF9LW/JwKaGOsUFihZHjva9evUYJh7NOt3nQa0NCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBH/ifFWoRHljURfI60u9I4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBRID4g8gOjVSdYcZ9a+1792hFuSetEAOURKlqfH2ej1WRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjLZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjg1ZjkxMTU3LWRkMjYtNDhmNy1hOWMzLWVhOTdmMWIzZjYwNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmVjNTEyMzk5LWIzYmEtNDA4Yi04YjkzLWY1NTI1MDhmMzVjNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC85usX0tb8nApoY6xQWKFkeO9r169RgmHs063edBrQ0KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggw23UaxsqGnE9IC50kW+7LAuAfk4kc8jnz6BDIxo7H/+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggJuXYKDhuO1llu3A7RJX/C16nZAjZ4//klxXVLur1Tvp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAU4MyQi77M5JRInT2r06OTXVRvD+IaDWJQXwAtxRw90vKHGMJvFPVU4vSg6DJbf+5BuLX/TAJIwCw8b/bZQgV0=</c2pa:manifest></metadata>
-  <defs>
-    <filter id="sh" x="-10%" y="-10%" width="120%" height="140%">
-      <feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#ff5900" flood-opacity="0.22"/>
-    </filter>
-    <clipPath id="cp"><rect width="280" height="140" rx="12"/></clipPath>
-    <g id="card">
-      <rect width="280" height="140" rx="12" fill="#FFF4EC" stroke="#FFD9C2"/>
-      <rect width="6" height="140" fill="#ff5900" clip-path="url(#cp)"/>
-    </g>
-  </defs>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=FF5900,FF8A3D,FFB07A&section=header&text=Shahin%20Bhuiyan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20App%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
+</p>
 
-  <g transform="translate(10,10)" filter="url(#sh)"><use href="#card"/></g>
-  <g transform="translate(310,10)" filter="url(#sh)"><use href="#card"/></g>
-  <g transform="translate(610,10)" filter="url(#sh)"><use href="#card"/></g>
-  <g transform="translate(10,175)" filter="url(#sh)"><use href="#card"/></g>
-  <g transform="translate(310,175)" filter="url(#sh)"><use href="#card"/></g>
-  <g transform="translate(610,175)" filter="url(#sh)"><use href="#card"/></g>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=26&pause=1000&color=FF5900&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahin+Bhuiyan;Full+Stack+Web+%26+App+Developer;PHP+%7C+Laravel+%7C+WordPress+Expert;Let's+Build+Something+Great!" alt="Typing SVG" />
+</h1>
 
-  <g fill="#3B2A20">
-    <g transform="translate(34,45)">
-      <text font-size="18" font-weight="700" fill="#ff5900">🌐 Web Development</text>
-      <text y="30" font-size="13">Modern, responsive, SEO-friendly</text>
-      <text y="50" font-size="13">websites with PHP, Laravel</text>
-      <text y="70" font-size="13">and WordPress.</text>
-    </g>
-    <g transform="translate(334,45)">
-      <text font-size="18" font-weight="700" fill="#ff5900">📱 App Development</text>
-      <text y="30" font-size="13">Cross-platform mobile and web</text>
-      <text y="50" font-size="13">apps using React Native and</text>
-      <text y="70" font-size="13">modern JS stacks.</text>
-    </g>
-    <g transform="translate(634,45)">
-      <text font-size="18" font-weight="700" fill="#ff5900">🛒 E-Commerce</text>
-      <text y="30" font-size="13">Complete stores with payment</text>
-      <text y="50" font-size="13">gateways, admin panels and</text>
-      <text y="70" font-size="13">inventory systems.</text>
-    </g>
-    <g transform="translate(34,210)">
-      <text font-size="18" font-weight="700" fill="#ff5900">⚙️ Custom Systems</text>
-      <text y="30" font-size="13">Custom PHP / Laravel admin</text>
-      <text y="50" font-size="13">panels, CRM, ERP and business</text>
-      <text y="70" font-size="13">management tools.</text>
-    </g>
-    <g transform="translate(334,210)">
-      <text font-size="18" font-weight="700" fill="#ff5900">🔌 API Integration</text>
-      <text y="30" font-size="13">REST API development and</text>
-      <text y="50" font-size="13">third-party integrations</text>
-      <text y="70" font-size="13">(payment, SMS, courier).</text>
-    </g>
-    <g transform="translate(634,210)">
-      <text font-size="18" font-weight="700" fill="#ff5900">🎨 UI/UX Design</text>
-      <text y="30" font-size="13">Clean, modern interfaces with</text>
-      <text y="50" font-size="13">Figma wireframes and</text>
-      <text y="70" font-size="13">pixel-perfect implementation.</text>
-    </g>
-  </g>
-</svg>
+<p align="center">
+  <img src="https://img.shields.io/badge/🇧🇩-Dhaka%2C%20Bangladesh-FFF1E6?style=for-the-badge&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-FFF1E6?style=for-the-badge&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Work-FFF1E6?style=for-the-badge&labelColor=3DDC84" />
+</p>
+
+<h3 align="center">Full Stack Web & App Developer • Business Solutions Specialist</h3>
+
+<p align="center">
+  <a href="https://shahinbhuiyan.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-FF5900?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:shahinfiverr00@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-FF5900?style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://wa.me/8801306897328">
+    <img src="https://img.shields.io/badge/💬%20WhatsApp-+880%201306--897328-25D366?style=for-the-badge" alt="WhatsApp" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5900&height=3" width="100%" height="3px" />
+
+## 👨‍💻 About Me
+
+> I'm a **passionate Full Stack Web & App Developer** from Bangladesh with **5+ years** of experience building modern, scalable and user-friendly digital solutions. I specialize in **business websites**, **custom web applications** and **e-commerce platforms** that help companies grow online.
+
+```yaml
+Name       : Shahin Bhuiyan
+Role       : Full Stack Web & App Developer
+Location   : Dhaka, Bangladesh 🇧🇩
+Experience : 5+ Years
+Freelance  : Available for new projects
+WhatsApp   : +880 1306-897328
+Focus      : Modern Websites • Web Apps • Business Solutions • REST APIs
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5900&height=3" width="100%" height="3px" />
+
+## 🚀 What I Do
+
+<p align="center">
+  <img src="assets/services.svg" alt="Services: Web Development, App Development, E-Commerce, Custom Systems, API Integration, UI/UX Design" width="100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5900&height=3" width="100%" height="3px" />
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-FFF1E6?style=for-the-badge&logo=php&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF1E6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/TypeScript-FFF1E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/HTML5-FFF1E6?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/CSS3-FFF1E6?style=for-the-badge&logo=css3&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Java-FFF1E6?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Python-FFF1E6?style=for-the-badge&logo=python&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Kotlin-FFF1E6?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Swift-FFF1E6?style=for-the-badge&logo=swift&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Ruby-FFF1E6?style=for-the-badge&logo=ruby&logoColor=white&labelColor=FF5900" />
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-FFF1E6?style=for-the-badge&logo=react&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Vue.js-FFF1E6?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Tailwind-FFF1E6?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Bootstrap-FFF1E6?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Figma-FFF1E6?style=for-the-badge&logo=figma&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Framer-FFF1E6?style=for-the-badge&logo=framer&logoColor=white&labelColor=FF5900" />
+</p>
+
+### 🔧 Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FFF1E6?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Node.js-FFF1E6?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/WordPress-FFF1E6?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/MySQL-FFF1E6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FFF1E6?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/MongoDB-FFF1E6?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/SQL%20Server-FFF1E6?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Firebase-FFF1E6?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FF5900" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-FFF1E6?style=for-the-badge&logo=git&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/GitHub-FFF1E6?style=for-the-badge&logo=github&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Linux-FFF1E6?style=for-the-badge&logo=linux&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/AWS-FFF1E6?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Kibana-FFF1E6?style=for-the-badge&logo=kibana&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Unity-FFF1E6?style=for-the-badge&logo=unity&logoColor=white&labelColor=FF5900" />
+  <img src="https://img.shields.io/badge/Android-FFF1E6?style=for-the-badge&logo=android&logoColor=white&labelColor=FF5900" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5900&height=3" width="100%" height="3px" />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahinbhuiyan&show_icons=true&title_color=FF5900&icon_color=FF5900&text_color=3B2A20&bg_color=FFF4EC&border_color=FF5900&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahinbhuiyan&layout=compact&title_color=FF5900&text_color=3B2A20&bg_color=FFF4EC&border_color=FF5900&border_radius=12&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahinbhuiyan&background=FFF4EC&border=FF5900&stroke=FF5900&ring=FF5900&fire=FF5900&currStreakNum=3B2A20&sideNums=3B2A20&currStreakLabel=FF5900&sideLabels=FF5900&dates=6B5444&borderRadius=12" alt="GitHub Streak" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5900&height=3" width="100%" height="3px" />
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahinbhuiyan&theme=flat&no-frame=true&no-bg=false&margin-w=6&column=7&title_color=FF5900&icon_color=FF5900&text_color=3B2A20&bg_color=FFF4EC" alt="GitHub Trophies" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5900&height=3" width="100%" height="3px" />
+
+## 💼 Let's Work Together
+
+<p align="center">
+  I'm currently <b>available for freelance projects</b> and <b>long-term collaborations</b>.<br>
+  Whether you need a business website, custom web app, or full e-commerce platform — I can help bring your idea to life.
+</p>
+
+<p align="center">
+  <a href="https://shahinbhuiyan.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Click%20Here-FF5900?style=for-the-badge" height="40" />
+  </a>
+  <a href="https://wa.me/8801306897328">
+    <img src="https://img.shields.io/badge/💬%20Chat%20on%20WhatsApp-+880%201306--897328-25D366?style=for-the-badge" height="40" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:shahinfiverr00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shahinfiverr00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/imshahinbhuiyan">
+    <img src="https://img.shields.io/badge/Twitter-@imshahinbhuiyan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://fb.com/shahinbhuiyan0">
+    <img src="https://img.shields.io/badge/Facebook-shahinbhuiyan0-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/shahinbhuiyan0">
+    <img src="https://img.shields.io/badge/Instagram-@shahinbhuiyan0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+## 🤝 Support My Work
+
+<p align="center">
+  If you like my work, consider giving a ⭐ to my repositories. It means a lot!
+</p>
+
+<p align="center">
+  <i>Built with ❤️ by <a href="https://github.com/shahinbhuiyan"><b>Shahin Bhuiyan</b></a> — Let's build something great together!</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=FF5900,FF8A3D,FFB07A&section=footer" width="100%" />
